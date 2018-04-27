@@ -26,11 +26,24 @@ sudo python get-pip.py
 
 ### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
-Once we've got `pip` set up, we can install Beautiful Soup with `pip install beautifulsoup4`. Beautiful Soup helps us scrape text from the internet. Muahahaha! 👹
+Once we've got `pip` set up, we can install Beautiful Soup with
+
+```bash
+$ sudo pip install beautifulsoup4
+```
+
+Beautiful Soup helps us scrape text from the internet. Muahahaha! 👹
 
 ### [Natural Language Toolkit (NLTK)](http://www.nltk.org/)
 
-Once we've got `pip` set up, we can install NLTK with `pip install nltk`. NLTK is a suite of text processing libraries for Python that lets us analyze text in some really interesting and powerful ways. For the intro exercises, we'll work through part of the [NLTK Book](http://www.nltk.org/book/). It's a great resource, check it out!!
+Once we've got `pip` set up, we can install NLTK with
+
+```bash
+$ sudo pip install nltk
+
+```
+
+NLTK is a suite of text processing libraries for Python that lets us analyze text in some really interesting and powerful ways. For the intro exercises, we'll work through part of the [NLTK Book](http://www.nltk.org/book/). It's a great resource, check it out!!
 
 NLTK comes loaded with a bunch of [corpora and trained models](http://www.nltk.org/nltk_data/). We're going to use some of them, so in your Python REPL type:
 
