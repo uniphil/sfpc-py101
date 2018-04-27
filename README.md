@@ -10,6 +10,20 @@ Workshop by [Phil](https://github.com/uniphil), [Riley](https://github.com/riley
 
 If you don't have a favorite text editor already, download [Sublime Text](https://www.sublimetext.com/). You _can_ use Xcode for these exercises if you're used to it, but we recommend Sublime since it's simpler and less clunky.
 
+### [pip](https://pip.pypa.io/en/stable/installing/)
+
+Open up a terminal and run this command to download the installer:
+
+```bash
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+```
+
+then to install,
+
+```bash
+sudo python get-pip.py
+```
+
 ### [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 
 Once we've got `pip` set up, we can install Beautiful Soup with `pip install beautifulsoup4`.
