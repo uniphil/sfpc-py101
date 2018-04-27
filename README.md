@@ -53,3 +53,8 @@ nltk.download()
 ```
 
 If it looks like nothing happened, check if a new window popped open in the background. We want to download `book` under the "Collections" tab.
+
+## Cool links
+
+- Python scripts for getting stuff from social media: https://github.com/lamthuyvo/social-media-data-scripts
+
