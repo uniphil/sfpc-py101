@@ -18,3 +18,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 8
 9
 >>> exit()
+
+# also dir, help[, pprint, repr, str]
