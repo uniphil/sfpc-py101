@@ -24,9 +24,9 @@ then to install,
 sudo python get-pip.py
 ```
 
-### [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
-Once we've got `pip` set up, we can install Beautiful Soup with `pip install beautifulsoup4`.
+Once we've got `pip` set up, we can install Beautiful Soup with `pip install beautifulsoup4`. Beautiful Soup helps us scrape text from the internet. Muahahaha! 👹
 
 ### [Natural Language Toolkit (NLTK)](http://www.nltk.org/)
 
