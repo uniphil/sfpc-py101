@@ -15,7 +15,7 @@ If you don't have a favorite text editor already, download [Sublime Text](https:
 Open up a terminal and run this command to download the installer:
 
 ```bash
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ```
 
 then to install,
